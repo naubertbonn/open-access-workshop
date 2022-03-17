@@ -3,19 +3,19 @@ workshop_id: UOBOA20220317NAB
 topic: open-access
 title: Open Access Workshop
 instructors:
-  - Noémie
+  - Lee-Anne
 instructor_emails: []
 helpers: []
 start_times:
   - 09|00
 setup_files: []
 language: en
-venue: Hasselt University
-address: Online
-country: BE
+venue: Department of Oncology
+address: TBC
+country: GB
 latitude: null
 longitude: null
-start_date: null
+start_date: 2022-05-10T23:00:00.000Z
 collaborative_notes: null
 eventbrite: null
 optional_intro_sections:
