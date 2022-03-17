@@ -10,9 +10,9 @@ start_times:
   - 09|00
 setup_files: []
 language: en
-venue: null
-address: null
-country: null
+venue: Hasselt University
+address: Online
+country: BE
 latitude: null
 longitude: null
 start_date: null
