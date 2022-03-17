@@ -1,7 +1,7 @@
 Open Access training aims to helps researchers disseminate their research widely using Open Access publication approaches.
 
 This training will teach researchers to:
-* navigate and identify intitutional and funder **policies**
+* navigate and identify institutional and funder **policies**
 * choose an appropriate **Open Access journal**
 * select the right **type of Open Access**
 * use **institutional repositories**
